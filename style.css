@@ -6,3 +6,9 @@ body{
     height: 350px;
     background: url(/img/patron-1.png);
 }
+
+#body{
+    
+    display: flex;
+    flex-direction: column;
+}
