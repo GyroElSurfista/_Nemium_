@@ -8,7 +8,11 @@ body{
 }
 
 #body{
-    
     display: flex;
     flex-direction: column;
+}
+
+#contenido{
+
+    display: flex;
 }
