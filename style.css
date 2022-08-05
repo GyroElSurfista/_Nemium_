@@ -8,9 +8,10 @@ h1{
     font-size: 60px;
     line-height: 70px;
     line-height: 100%;
+    font-weight: 400;
     text-align: left;
     vertical-align: top;
-    font-weight: 400;
+    
 
 }
 
@@ -42,6 +43,21 @@ p{
     text-align: left;
     vertical-align: top;     
 }
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(41, 41, 41);
+}
+
+a:visited{
+    color:rgba(97, 97, 97, 1);
+    text-decoration: none;
+}
+
+
 
 #franja-sup{
     width: 100%;
