@@ -77,6 +77,7 @@ pre{
     
     background: rgba(254, 198, 46, 1);
     padding: 5%;
+    width: 70%;
 
 }
 #franja-sup{
@@ -125,6 +126,31 @@ pre{
 
 #div-conceptos{
     margin-bottom:150px;
+}
+
+#div-footer{
+    background: rgba(33, 36, 41, 1);
+    font-size: 24px;
+    color: white;
+    line-height: 28px;
+    line-height: 100%;
+    text-align: center;
+    vertical-align: center; 
+    height: 174px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+#img-dom{
+    width: 100%;
+}
+
+#img-muchacho{
+    width:80%;
 }
 
  .h3-sub{
