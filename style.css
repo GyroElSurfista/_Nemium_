@@ -71,8 +71,16 @@ p{
  #area-nav{
     color:rgba(97, 97, 97, 1);
     font-size: 14px;
+
+    width: 15%;
+    margin: 0px 5% 0px 5%;
  }
 
+#desarrollo{
+    width: 65%;
+    margin: 0px 5% 0px 5%;    
+
+}
  .h3-sub{
     text-decoration: underline;
  }
