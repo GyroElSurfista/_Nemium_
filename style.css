@@ -1,6 +1,7 @@
 body{
-    font-family: 'Roboto', sans-serif;
     color:rgba(33, 33, 33, 1); 
+    font-family: 'Roboto', sans-serif;
+    
 }
 
 h1{
@@ -17,6 +18,8 @@ h2{
     font-size: 32px;
     line-height: 38px;
     line-height: 100%;
+    font-weight: 400;
+
     text-align: left;
     vertical-align: top;
 
@@ -26,6 +29,7 @@ h3{
     font-size: 24px;
     line-height: 28px;
     line-height: 100%;
+
     text-align: left;
     vertical-align: top;   
 }
@@ -34,6 +38,7 @@ p{
     font-size: 16px;
     line-height: 24px;
     line-height: 128%;
+
     text-align: left;
     vertical-align: top;     
 }
@@ -41,6 +46,7 @@ p{
 #franja-sup{
     width: 100%;
     height: 350px;
+
     background: url(/img/patron-1.png);
 }
 
@@ -54,9 +60,12 @@ p{
     display: flex;
 }
 
-#nom-area-nav{
-    text-transform: uppercase;
+#nombre-area-nav{
+    font-size: 14px;
     line-height: 24px;
+    font-weight: 400;
+
+    text-transform: uppercase;
 }
 
  #area-nav{
