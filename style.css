@@ -70,6 +70,11 @@ blockquote{
 
 }
 
+code{
+    padding: 5%;
+    width: 90%;
+}
+
 pre{
     font-size: 16px;
     line-height: 24px;
@@ -77,7 +82,7 @@ pre{
     
     background: rgba(254, 198, 46, 1);
     padding: 5%;
-    width: 70%;
+    width: 90%;
 
 }
 #franja-sup{
@@ -151,6 +156,10 @@ pre{
 
 #img-muchacho{
     width:80%;
+}
+
+#img-css{
+    width: 80%;
 }
 
  .h3-sub{
