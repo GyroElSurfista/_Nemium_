@@ -122,6 +122,11 @@ pre{
     display: flex;
     justify-content:flex-start;
 }
+
+#div-conceptos{
+    margin-bottom:150px;
+}
+
  .h3-sub{
     text-decoration: underline;
  }
