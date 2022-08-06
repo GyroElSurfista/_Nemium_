@@ -198,6 +198,10 @@ ol{
     justify-content: flex-start;
 }
 
+#suscribirme{
+    background: rgba(0,0,0, 1);
+    color: white;
+}
 
  .h3-sub{
     text-decoration: underline;
@@ -207,7 +211,7 @@ ol{
     margin: 0px 1% 0px 1%;
 }
 
-#suscribirme{
-    background: rgba(0,0,0, 1);
-    color: white;
+.li-desarrollo::marker{
+    font-size: 24px;
 }
+
