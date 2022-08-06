@@ -115,6 +115,10 @@ summary{
     font-weight: 700;
 }
 
+summary:hover{
+    cursor: pointer;
+}
+
 ol{
     padding-left: 10%;
 }
@@ -141,8 +145,8 @@ li{
 }
 
 #contenido{
-    
     display: flex;
+    direction:row;
 }
 
 #nombre-area-nav{
@@ -165,6 +169,10 @@ li{
     width: 65%;
     margin: 0px 5% 0px 5%;    
 
+}
+
+#parrafo-introduccion{
+    margin-bottom: 7%;
 }
 
 #codigo-html{
