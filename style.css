@@ -180,6 +180,12 @@ li{
     justify-content:flex-start;
 }
 
+#correo-leonidas{
+    color: black;
+    font-weight: 700;
+    text-decoration:underline;
+}
+
 #div-conceptos{
     margin-bottom:150px;
 }
